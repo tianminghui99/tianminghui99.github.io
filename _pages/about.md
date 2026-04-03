@@ -46,5 +46,5 @@ Welcome! I am Minghui Tian (田明慧), currently a Ph.D. student in the School 
           </a>     
   </div>  
   
-- **Shandong University** Sep.2019 — Jun.2022  
+- **Shandong University** Sep.2018 — Jun.2022  
   Bachelor in the School of Computer Science and Technology
