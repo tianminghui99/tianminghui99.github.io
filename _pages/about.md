@@ -23,7 +23,7 @@ Welcome! I am Minghui Tian (田明慧), currently a Ph.D. student in the School 
 
   <div align="left">
           <a target="_blank" rel="external">
-            <img border="0" src="https://tianminghui.github.io/images/sustech.png" align="right" width="120" height="54">
+            <img border="0" src="https://tianminghui99.github.io/images/sustech.png" align="right" width="120" height="54">
           </a>     
   </div>  
   
